@@ -1,0 +1,9 @@
+#img-bg{
+    background-image: url('https://cdn.wallpapersafari.com/54/90/QKi8nh.jpg');
+
+    min-height: 695px;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
